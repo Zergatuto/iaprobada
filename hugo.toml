@@ -1,0 +1,70 @@
+baseURL = "https://iaprobada.com"
+locale = "es"
+title = "IA Probada – Reseñas Honestas de Herramientas IA"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  env = "production"
+  title = "IA Probada"
+  description = "Reseñas y comparativas honestas de las mejores herramientas de inteligencia artificial para creadores, freelancers y pequeños negocios."
+  keywords = ["herramientas IA", "reseñas IA", "mejores herramientas IA", "comparativa IA", "inteligencia artificial"]
+  author = "Equipo IA Probada"
+  DateFormat = "2 January 2006"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+
+[params.homeInfoParams]
+  Title = "Herramientas IA — Analizadas y Clasificadas"
+  Content = "Probamos y comparamos las mejores herramientas de IA para que tú no tengas que hacerlo. Encuentra la herramienta ideal para tu flujo de trabajo con reseñas honestas y resultados reales."
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
+[menu]
+  [[menu.main]]
+    identifier = "resenas"
+    name = "Reseñas"
+    url = "/resenas/"
+    weight = 10
+  [[menu.main]]
+    identifier = "comparativas"
+    name = "Comparativas"
+    url = "/comparativas/"
+    weight = 20
+  [[menu.main]]
+    identifier = "categorias"
+    name = "Categorías"
+    url = "/categorias/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "Acerca de"
+    url = "/about/"
+    weight = 40
+
+[taxonomies]
+  category = "categorias"
+  tag = "etiquetas"
+  series = "series"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
