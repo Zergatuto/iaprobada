@@ -55,6 +55,10 @@ Una función relativamente nueva que permite generar múltiples piezas de conten
 
 ---
 
+## Screenshots
+
+![Screenshot 1](/images/resenas/jasper-ai/jasper_espa_ol.png)
+
 ## Precios
 
 Jasper ofrece actualmente dos planes principales (precios en USD):

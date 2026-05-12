@@ -61,6 +61,10 @@ El sistema puede configurarse para detectar caídas de visibilidad, activar actu
 
 ---
 
+## Screenshots
+
+![Screenshot 1](/images/resenas/writesonic/write_espa_ol.png)
+
 ## Precios
 
 Writesonic ofrece varios planes según las necesidades de tu equipo:
