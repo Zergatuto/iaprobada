@@ -40,29 +40,29 @@ buildFuture = false
 
 [menu]
   [[menu.main]]
-    identifier = "resenas"
-    name = "Reseñas"
-    url = "/resenas/"
+    identifier = "inmobiliarias"
+    name = "Inmobiliarias"
+    url = "/inmobiliarias/"
     weight = 10
   [[menu.main]]
-    identifier = "comparativas"
-    name = "Comparativas"
-    url = "/comparativas/"
+    identifier = "tiendas-online"
+    name = "Tiendas Online"
+    url = "/tiendas-online/"
     weight = 20
   [[menu.main]]
-    identifier = "categorias"
-    name = "Categorías"
-    url = "/categorias/"
+    identifier = "creadores"
+    name = "Creadores"
+    url = "/creadores/"
     weight = 30
+  [[menu.main]]
+    identifier = "resenas"
+    name = "Todas las Reseñas"
+    url = "/resenas/"
+    weight = 40
   [[menu.main]]
     identifier = "about"
     name = "Acerca de"
     url = "/about/"
-    weight = 40
-  [[menu.main]]
-    identifier = "author"
-    name = "Autor"
-    url = "/author/"
     weight = 50
   [[menu.main]]
     identifier = "contact"
