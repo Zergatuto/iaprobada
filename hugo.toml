@@ -1,5 +1,6 @@
 baseURL = "https://iaprobada.com"
-locale = "es"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "IA Probada – Reseñas Honestas de Herramientas IA"
 theme = "PaperMod"
 paginate = 10
@@ -13,6 +14,7 @@ buildFuture = false
   description = "Reseñas y comparativas honestas de las mejores herramientas de inteligencia artificial para creadores, freelancers y pequeños negocios."
   keywords = ["herramientas IA", "reseñas IA", "mejores herramientas IA", "comparativa IA", "inteligencia artificial"]
   author = "Equipo IA Probada"
+  images = ["/images/og-default.png"]
   DateFormat = "2 January 2006"
   defaultTheme = "auto"
   disableThemeToggle = false
