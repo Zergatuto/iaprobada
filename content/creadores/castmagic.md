@@ -1,4 +1,3 @@
-```toml
 +++
 title = "Reseña de Castmagic 2026: ¿Vale la pena para podcasters y YouTubers hispanohablantes?"
 date = "2026-05-12T15:07:47"
@@ -9,7 +8,6 @@ categories = ["Creadores"]
 ShowToc = true
 TocOpen = false
 +++
-```
 
 ## Veredicto Rápido
 
