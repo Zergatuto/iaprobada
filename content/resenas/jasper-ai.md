@@ -57,17 +57,14 @@ Una función relativamente nueva que permite generar múltiples piezas de conten
 
 ## Precios
 
-Jasper ofrece actualmente tres planes principales (precios en USD, facturación anual):
+Jasper ofrece actualmente dos planes principales (precios en USD):
 
-| Plan | Precio mensual | Usuarios | Palabras/mes |
-|---|---|---|---|
-| **Creator** | $39 | 1 | Ilimitadas* |
-| **Pro** | $59 | Hasta 5 | Ilimitadas* |
-| **Business** | Cotización | Personalizado | Personalizado |
+| Plan | Precio mensual (anual) | Precio mensual (mensual) |
+|---|---|---|
+| **Pro** | $59 | $69 |
+| **Business** | Custom | Custom |
 
-*"Ilimitadas" está sujeto a políticas de uso razonable. En la práctica, durante pruebas intensivas de generación masiva, la velocidad de respuesta se redujo notablemente.
-
-El plan **Creator** incluye una sola voz de marca y acceso a plantillas básicas. El plan **Pro** habilita hasta tres voces de marca, colaboración en equipo y acceso a Jasper Art sin límite de créditos adicionales. El plan **Business** agrega SSO, permisos granulares y soporte prioritario.
+Los planes incluyen acceso a todas las funciones principales, voces de marca y plantillas. Para detalles específicos sobre límites de palabras y usuarios por plan, consulta directamente en https://www.jasper.ai/pricing
 
 Existe una **prueba gratuita de 7 días** que no requiere tarjeta de crédito al momento de registrarse, aunque algunas funciones avanzadas quedan restringidas durante el período de prueba.
 
@@ -93,7 +90,7 @@ Comparado con competidores como Copy.ai (que ofrece un plan gratuito permanente)
 
 **1. El español es ciudadano de segunda clase.** Este es el punto más crítico para nuestra audiencia. El contenido generado en español suena funcional pero rara vez suena natural. Las expresiones idiomáticas, los regionalismos y el ritmo propio del español latinoamericano no están bien capturados por defecto.
 
-**2. El precio de entrada es alto para resultados irregulares.** Pagar $39 al mes por un plan Creator que produce contenido en español que requiere edición extensiva es difícil de justificar frente a alternativas más económicas o el uso directo de Claude o GPT-4 con prompts bien diseñados.
+**2. El precio de entrada es alto para resultados irregulares.** Pagar desde $59 al mes por un plan que produce contenido en español que requiere edición extensiva es difícil de justificar frente a alternativas más económicas o el uso directo de Claude o GPT-4 con prompts bien diseñados.
 
 **3. La función "Ilimitada" tiene límites reales.** Durante sesiones de generación intensiva —simulando el uso de un equipo de contenido en plena producción— observamos throttling evidente. La velocidad cayó hasta en un 60% después de generar aproximadamente 80.000 palabras en un solo día.
 
@@ -132,7 +129,7 @@ Si tu operación de contenido es principalmente en inglés, o si lideras un equi
 
 Si, en cambio, produces contenido mayoritariamente en español para audiencias latinoamericanas, te recomendamos explorar alternativas antes de comprometerte con una suscripción anual. Dicho esto, la prueba gratuita de 7 días es suficiente para que compruebes por ti mismo si el nivel de calidad en español satisface tus necesidades específicas.
 
-**Puedes comenzar tu prueba gratuita de 7 días aquí → [AGREGAR_LINK_AFILIADO]**
+**Puedes comenzar tu prueba gratuita de 7 días en https://www.jasper.ai/pricing**
 
 **Calificación final: 7.2 / 10**
 
@@ -146,5 +143,3 @@ Si, en cambio, produces contenido mayoritariamente en español para audiencias l
 | Soporte y documentación | 5.0 / 10 |
 
 ---
-
-*Divulgación: Algunos enlaces en esta reseña son de afiliado. Ganamos una pequeña comisión si te suscribes a través de nuestro enlace, sin costo adicional para ti. Esto nunca influye en nuestras calificaciones.*
