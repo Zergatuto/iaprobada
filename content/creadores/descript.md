@@ -77,11 +77,17 @@ Permite corregir una palabra mal dicha simplemente escribiendo la corrección: l
 
 ---
 
+## Screenshots
+
+![Screenshot 1](/images/creadores/descript/descript_espa_ol.png)
+
 ## Precios
 
-- **Free**: exporta en 720p sin marca de agua. Uso limitado de Underlord y herramientas IA. Prueba limitada de AI Speech. Útil solo para evaluar la interfaz.
-- **Hobbyist**: exporta en 1080p sin marca de agua. Acceso a Underlord, Studio Sound, Remove Filler Words, Create Clips. AI Speech con clonación de voz personalizada y video regenerate. Escala hasta equipo de 3 (facturado por separado). [verificar en https://descript.com/pricing]
-- **Creator**: acceso completo a Underlord y más de 20 herramientas IA. Generación de video con modelos IA de última generación. Biblioteca de stock royalty-free ilimitada. Acceso a créditos adicionales de media hours e IA. [verificar en https://descript.com/pricing]
+- **Free**: 100 créditos por única vez. Exporta en 720p sin marca de agua. Uso limitado de Underlord y herramientas IA. Prueba limitada de AI Speech. Útil solo para evaluar la interfaz.
+- **Hobbyist**: $24/mes (facturación anual) o $16/mes (mensual). Exporta en 1080p sin marca de agua. Acceso a Underlord, Studio Sound, Remove Filler Words, Create Clips. AI Speech con clonación de voz personalizada y video regenerate. Escala hasta equipo de 3 (facturado por separado).
+- **Creator**: $35/mes (facturación anual) o $24/mes (mensual). Acceso completo a Underlord y más de 20 herramientas IA. Generación de video con modelos IA de última generación. Biblioteca de stock royalty-free ilimitada. Acceso a créditos adicionales de media hours e IA.
+- **Business**: $65/mes (facturación anual) o $60/mes (mensual). Para equipos pequeños con funciones avanzadas de colaboración y controles administrativos.
+- **Enterprise**: Precios personalizados. Para grandes equipos y organizaciones con necesidades específicas.
 
 **¿Qué plan tiene sentido para creadores?** El plan **Hobbyist** es el mínimo viable para un creador individual: incluye las funciones que realmente importan (Studio Sound, Remove Filler Words, Create Clips, exportación 1080p). El plan Free es demasiado limitado para uso regular de producción.
 
@@ -143,6 +149,4 @@ Opus Clip está construido específicamente para el caso de uso de "video largo 
 
 ## Veredicto Final
 
-Descript es una apuesta sólida para creadores hispanohablantes que producen contenido hablado y necesitan un flujo de producción más rápido sin aprender edición tradicional. La edición por texto, la mejora de audio automática y el flujo de reutilización en una sola plataforma son sus tres grandes argumentos reales, no de marketing.
-
-La advertencia honesta: si grabás con acento del Cono Sur, sumá tiempo de corrección. Si estás en México, Colombia o España, el producto funciona notablemente mejor. El precio no es barato para creadores independientes sin presupuesto, pero si facturás por tu contenido o
+Descript es una apuesta sólida para creadores hispanohablantes que producen contenido hablado y necesitan un flujo de producción más r
