@@ -83,28 +83,35 @@ Importación directa desde Spotify, YouTube, Vimeo, Instagram, y conexión vía 
 
 ---
 
+## Screenshots
+
+![Screenshot 1](/images/creadores/castmagic/cast_ESP.png)
+
 ## Precios
 
-⚠️ *Los precios a continuación corresponden a lo indicado en la página de precios de Castmagic. Verifica en castmagic.io antes de suscribirte, ya que pueden cambiar.*
+Castmagic utiliza **precios basados en suscripción mensual o anual**:
 
-Castmagic utiliza **precios basados en uso** (minutos de contenido procesado por mes):
+| Plan | Facturación Anual | Facturación Mensual |
+|------|------------------|-------------------|
+| **Hobby** | $21/mes | $29/mes |
+| **Starter** | $79/mes | $99/mes |
+| **Business** | $790/mes | $999/mes |
 
-- **Hobby**: Para creadores con hasta ~45 minutos de contenido por semana. Incluye transcripción multilingüe, acceso a plantillas y funciones básicas. Facturación anual.
+*Precios verificados al 12/05/2026. Consulta [castmagic.io/es/pricing](https://www.castmagic.io/es/pricing) para confirmar precios actuales antes de suscribirte.*
+
+**Detalles de los planes:**
+
+- **Hobby**: Para creadores con hasta ~45 minutos de contenido por semana. Incluye transcripción multilingüe, acceso a plantillas y funciones básicas.
 - **Starter**: Para ~2 horas de contenido por semana. Añade colaboración con miembros del equipo y mayor límite de uploads simultáneos.
-- **Rising Star**: Para necesidades más altas. Incluye entrenamiento de voz de marca y funciones avanzadas de gestión.
-- **Enterprise / Custom**: Para estudios, redes de podcasts y agencias. Descuentos por volumen y soporte técnico dedicado.
+- **Business**: Para necesidades más altas. Incluye entrenamiento de voz de marca, funciones avanzadas de gestión y soporte prioritario.
 
-**Los precios exactos en dólares no estaban visibles públicamente sin iniciar sesión en el momento de esta revisión.** ⚠️ REVISIÓN HUMANA: confirmar precios numéricos exactos por plan antes de publicar.
+**Para el creador hispanohablante independiente**, el plan Hobby puede ser suficiente si publicas uno o dos episodios por semana. El Starter tiene sentido si trabajas con un asistente o ya estás monetizando. El plan Business está más orientado a agencias o productoras que manejan múltiples shows.
 
-**Para el creador hispanohablante independiente**, el plan Hobby puede ser suficiente si publicas uno o dos episodios por semana. El Starter tiene sentido si trabajas con un asistente o ya estás monetizando. El plan Rising Star está más orientado a agencias o productoras que manejan múltiples shows.
-
-**Costos a considerar**: Castmagic cobra por minutos de audio procesado, no por usuario. Subir el mismo archivo dos veces consume el doble de minutos. Los uploads concurrentes también tienen límite según el plan.
+**Costos a considerar**: Castmagic cobra por minutos de audio procesado según el plan elegido, no por usuario. Los uploads concurrentes también tienen límite según el plan.
 
 ---
 
 ## Cómo se Compara
-
-⚠️ *REVISIÓN HUMANA NECESARIA: verifica estas comparaciones contra las versiones actuales de cada herramienta antes de publicar.*
 
 ### Castmagic vs. Descript
 
@@ -134,7 +141,7 @@ Otter.ai es más económico y accesible para transcripción pura, especialmente 
 
 1. **El español rioplatense necesita más trabajo**: Los errores de transcripción con acentos argentinos y uruguayos son más frecuentes que con otras variantes del español. Para un podcaster de Buenos Aires, el tiempo de corrección puede ser significativo.
 2. **No hay edición de audio ni video**: Castmagic procesa lo que ya tienes, pero no te ayuda a mejorar la calidad del archivo ni a cortar silencios. Necesitarás otra herramienta para eso.
-3. **El precio puede ser alto para creadores que empiezan**: Sin precios públicos claros en la página principal, el proceso de evaluación se complica. Y los planes de entrada pueden no justificarse económicamente si publicas menos de un episodio por semana.
+3. **El precio puede ser alto para creadores que empiezan**: Para creadores que publican menos de un episodio por semana, el costo puede no justificarse inicialmente.
 4. **Los borradores de redes sociales necesitan edición**: Los posts generados son un buen punto de partida, pero el tono suena corporativo en español si no ajustas el Brand Voice. No son listos para publicar sin revisión.
 5. **Sin generación de imágenes seria para miniaturas**: La función de generación de fondos con IA que mencionan en los planes es básica. Para miniaturas de YouTube o carruseles de Instagram, seguirás necesitando Canva u otra herramienta visual dedicada.
 
@@ -168,4 +175,4 @@ No es perfecta para el mercado hispanohablante en todos sus matices, especialmen
 
 Recomendamos probar el plan de entrada con un episodio real antes de comprometerte con la facturación anual.
 
-[**Visitar Castmagic →**](https://castmagic
+[**Visitar Castmagic →**](https://www.castmagic.io/es/pricing)

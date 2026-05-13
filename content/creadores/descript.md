@@ -1,3 +1,4 @@
+```
 +++
 title = "Reseña de Descript 2026: ¿El Editor de Video con IA que Todo YouTuber y Podcaster Hispanohablante Necesita?"
 date = "2026-05-12T02:06:41"
@@ -84,9 +85,9 @@ Permite corregir una palabra mal dicha simplemente escribiendo la corrección: l
 ## Precios
 
 - **Free**: 100 créditos por única vez. Exporta en 720p sin marca de agua. Uso limitado de Underlord y herramientas IA. Prueba limitada de AI Speech. Útil solo para evaluar la interfaz.
-- **Hobbyist**: $24/mes (facturación anual) o $16/mes (mensual). Exporta en 1080p sin marca de agua. Acceso a Underlord, Studio Sound, Remove Filler Words, Create Clips. AI Speech con clonación de voz personalizada y video regenerate. Escala hasta equipo de 3 (facturado por separado).
-- **Creator**: $35/mes (facturación anual) o $24/mes (mensual). Acceso completo a Underlord y más de 20 herramientas IA. Generación de video con modelos IA de última generación. Biblioteca de stock royalty-free ilimitada. Acceso a créditos adicionales de media hours e IA.
-- **Business**: $65/mes (facturación anual) o $60/mes (mensual). Para equipos pequeños con funciones avanzadas de colaboración y controles administrativos.
+- **Hobbyist**: $16/mes (facturación mensual) o $24/mes (facturación anual). Exporta en 1080p sin marca de agua. Acceso a Underlord, Studio Sound, Remove Filler Words, Create Clips. AI Speech con clonación de voz personalizada y video regenerate. Escala hasta equipo de 3 (facturado por separado).
+- **Creator**: $24/mes (facturación mensual) o $35/mes (facturación anual). Acceso completo a Underlord y más de 20 herramientas IA. Generación de video con modelos IA de última generación. Biblioteca de stock royalty-free ilimitada. Acceso a créditos adicionales de media hours e IA.
+- **Business**: $60/mes (facturación mensual) o $65/mes (facturación anual). Para equipos pequeños con funciones avanzadas de colaboración y controles administrativos.
 - **Enterprise**: Precios personalizados. Para grandes equipos y organizaciones con necesidades específicas.
 
 **¿Qué plan tiene sentido para creadores?** El plan **Hobbyist** es el mínimo viable para un creador individual: incluye las funciones que realmente importan (Studio Sound, Remove Filler Words, Create Clips, exportación 1080p). El plan Free es demasiado limitado para uso regular de producción.
@@ -149,4 +150,4 @@ Opus Clip está construido específicamente para el caso de uso de "video largo 
 
 ## Veredicto Final
 
-Descript es una apuesta sólida para creadores hispanohablantes que producen contenido hablado y necesitan un flujo de producción más r
+Descript es una apuesta sólida para creadores hispanohablantes que producen contenido hablado y
