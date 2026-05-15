@@ -13,6 +13,9 @@
 <link rel="alternate" hreflang="x-default" href="https://toolcritic.co/">
 {{- end }}
 
+<meta name="referrer" content="strict-origin-when-cross-origin">
+{{- if .Params.noindex }}<meta name="robots" content="noindex, follow">{{- end }}
+
 {{- if .IsSection }}
 {{- $sectionMap := dict "creadores" "creators" "inmobiliarias" "real-estate" "tiendas-online" "ecommerce" "resenas" "reviews" "alternativas" "alternatives" }}
 {{- $enSection := index $sectionMap .Section | default .Section }}

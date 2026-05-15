@@ -3,6 +3,7 @@ date = '2026-05-10T00:00:00-03:00'
 draft = false
 title = 'Política de Privacidad'
 description = 'Política de privacidad y divulgación de afiliados de IA Probada.'
+noindex = true
 +++
 
 *Última actualización: 10 de mayo de 2026*
