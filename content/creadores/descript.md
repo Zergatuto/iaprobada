@@ -5,6 +5,8 @@ draft = false
 description = "Analizamos Descript a fondo: transcripción, edición por texto, reutilización de contenido y qué tan bien funciona con el español latino y de España."
 tags = ["descript", "herramientas ia", "creadores"]
 categories = ["Creadores"]
+tool_name = "Descript"
+rating = 7.4
 ShowToc = true
 TocOpen = false
 +++

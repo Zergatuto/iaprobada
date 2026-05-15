@@ -5,6 +5,8 @@ draft = false
 description = "Analizamos Castmagic para creadores de contenido en español: transcripción, reutilización y generación de assets. ¿Funciona con acentos latinos?"
 tags = ["castmagic", "herramientas ia", "creadores", "podcasters", "youtubers", "reutilización de contenido"]
 categories = ["Creadores"]
+tool_name = "Castmagic"
+rating = 7.2
 ShowToc = true
 TocOpen = false
 +++

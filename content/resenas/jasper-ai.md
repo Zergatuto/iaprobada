@@ -5,6 +5,8 @@ draft = false
 description = "Analizamos Jasper AI a fondo: funciones, precios, límites reales y si conviene para equipos de marketing hispanohablantes. Reseña honesta e independiente."
 tags = ["jasper ai", "generador de contenido ia", "herramientas de escritura ia", "marketing de contenidos", "copywriting ia"]
 categories = ["Generadores de Contenido IA"]
+tool_name = "Jasper AI"
+rating = 7.2
 ShowToc = true
 TocOpen = false
 +++

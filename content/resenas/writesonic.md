@@ -5,6 +5,8 @@ draft = false
 description = "Analizamos Writesonic a fondo: seguimiento GEO, agentes IA, precios y limitaciones reales. ¿Vale la pena para equipos de marketing en LATAM y España?"
 tags = ["GEO", "visibilidad en IA", "SEO", "herramientas de marketing", "agentes IA"]
 categories = ["Plataformas de Marketing IA"]
+tool_name = "Writesonic"
+rating = 7.4
 ShowToc = true
 TocOpen = false
 +++
