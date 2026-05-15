@@ -1,5 +1,5 @@
 +++
-title = "Reseña de Castmagic 2026: ¿Vale la pena para podcasters y YouTubers hispanohablantes?"
+title = "Reseña de Castmagic 2026: ¿Funciona Bien en Español?"
 date = "2026-05-12T15:07:47"
 draft = false
 description = "Analizamos Castmagic para creadores de contenido en español: transcripción, reutilización y generación de assets. ¿Funciona con acentos latinos?"
@@ -87,7 +87,7 @@ Importación directa desde Spotify, YouTube, Vimeo, Instagram, y conexión vía 
 
 ## Screenshots
 
-![Screenshot 1](/images/creadores/castmagic/cast_ESP.png)
+![Panel de Castmagic mostrando transcripción y generación de assets de contenido](/images/creadores/castmagic/castmagic-resena-captura.png)
 
 ## Precios
 

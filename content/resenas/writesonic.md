@@ -1,5 +1,5 @@
 +++
-title = "Reseña de Writesonic 2026: ¿La Mejor Plataforma de Visibilidad en IA para Marketers Hispanohablantes?"
+title = "Reseña de Writesonic 2026: Plataforma GEO a Fondo"
 date = "2026-05-10T14:26:29"
 draft = false
 description = "Analizamos Writesonic a fondo: seguimiento GEO, agentes IA, precios y limitaciones reales. ¿Vale la pena para equipos de marketing en LATAM y España?"
@@ -65,7 +65,7 @@ El sistema puede configurarse para detectar caídas de visibilidad, activar actu
 
 ## Screenshots
 
-![Screenshot 1](/images/resenas/writesonic/write_espa_ol.png)
+![Dashboard GEO de Writesonic mostrando rastreo de visibilidad en IA y análisis de competidores](/images/resenas/writesonic/writesonic-resena-captura.png)
 
 ## Precios
 

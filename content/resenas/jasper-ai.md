@@ -1,5 +1,5 @@
 +++
-title = "Reseña de Jasper AI 2026: ¿Vale la Pena para Creadores de Contenido en Español?"
+title = "Reseña de Jasper AI 2026: ¿Vale la Pena el Precio Premium?"
 date = "2026-05-09T19:01:26"
 draft = false
 description = "Analizamos Jasper AI a fondo: funciones, precios, límites reales y si conviene para equipos de marketing hispanohablantes. Reseña honesta e independiente."
@@ -59,7 +59,7 @@ Una función relativamente nueva que permite generar múltiples piezas de conten
 
 ## Screenshots
 
-![Screenshot 1](/images/resenas/jasper-ai/jasper_espa_ol.png)
+![Editor de Jasper AI mostrando modo documento con Brand Voice y panel de plantillas](/images/resenas/jasper-ai/jasper-ai-resena-captura.png)
 
 ## Precios
 

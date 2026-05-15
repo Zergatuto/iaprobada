@@ -1,5 +1,5 @@
 +++
-title = "Reseña de Descript 2026: ¿El Editor de Video con IA que Todo YouTuber y Podcaster Hispanohablante Necesita?"
+title = "Reseña de Descript 2026: ¿El Mejor Editor IA para Creadores?"
 date = "2026-05-12T02:06:41"
 draft = false
 description = "Analizamos Descript a fondo: transcripción, edición por texto, reutilización de contenido y qué tan bien funciona con el español latino y de España."
@@ -81,7 +81,7 @@ Permite corregir una palabra mal dicha simplemente escribiendo la corrección: l
 
 ## Screenshots
 
-![Screenshot 1](/images/creadores/descript/descript_espa_ol.png)
+![Editor de video basado en texto de Descript mostrando línea de tiempo y panel Underlord](/images/creadores/descript/descript-resena-captura.png)
 
 ## Precios
 
