@@ -73,11 +73,6 @@ disableKinds = ["taxonomy", "term"]
     url = "/contact/"
     weight = 60
 
-[taxonomies]
-  category = "categorias"
-  tag = "etiquetas"
-  series = "series"
-
 [minify]
   disableXML = true
   minifyOutput = true

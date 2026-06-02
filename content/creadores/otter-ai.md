@@ -3,8 +3,6 @@ title = "IA para Podcasters en Español: Guía Completa (2026)"
 date = "2026-05-17T12:00:00"
 draft = false
 description = "Cuál herramienta de IA maneja mejor el español latinoamericano para podcasters y creadores: comparamos Whisper, Descript, Castmagic y Otter.ai con acentos de México, Colombia y Argentina."
-tags = ["otter-ai", "transcripcion", "podcasters", "español"]
-categories = ["Creadores"]
 ShowToc = true
 TocOpen = false
 +++
