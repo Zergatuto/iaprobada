@@ -1,7 +1,7 @@
 +++
 title = "Reseña de Lofty 2026: CRM con IA para Agentes"
 date = "2026-05-17T23:13:06"
-draft = true
+draft = false
 description = "Reseña independiente de Lofty 2026: el CRM con IA para agentes inmobiliarios. Funciones, precios reales, comparativa vs Follow Up Boss y BoldTrail."
 tool_name = "Lofty"
 rating = 7.8
